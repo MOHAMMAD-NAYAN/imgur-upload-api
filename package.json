@@ -1,5 +1,5 @@
 {
-  "name": "imgur-upload-api",
+  "name": "imgur-uploader-api",
   "version": "2.0.3",
   "description": "Imgur Upload Api By Mohammad Nayan",
   "main": "index.js",
